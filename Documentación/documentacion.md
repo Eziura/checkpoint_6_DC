@@ -156,7 +156,7 @@ Comenzamos creando la clase de persona Person que va a tener el argumento de nom
 
 ```
 class Person:
-    def \_\_init\_\_(self, nombre):
+    def __init__(self, nombre):
         self.nombre = nombre
 
     def hablar(self):
